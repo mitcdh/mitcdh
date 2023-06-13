@@ -1,4 +1,4 @@
-### G'day I'm Mitch 👋
+### G'day 👋
 
 I help people around the world secure computers and neutrons.
 
