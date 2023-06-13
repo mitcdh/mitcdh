@@ -7,4 +7,5 @@ I help people around the world secure computers and neutrons.
 - 👯 I openly share my work, enjoy experimenting with technologies, and am always eager to discuss potential collaborations or answer questions.
 - 😍 I'm passionate about simplifying complex information security topics and fostering jolly international collaboration. 
 
-- 📫 Find a way to contact me here: https://mitcdh.au/
+
+📫 Find a way to contact me here: https://mitcdh.au/
